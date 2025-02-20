@@ -76,7 +76,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-web-students</finalName>
+		<finalName>spring-web</finalName>
 	</build>
 
 </project>
